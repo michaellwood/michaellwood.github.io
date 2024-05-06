@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /collaborators/
 title: people
-description: members of the lab or group
+description: people I have published with
 nav: true
 nav_order: 7
 
