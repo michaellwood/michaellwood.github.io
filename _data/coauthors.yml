@@ -1,5 +1,5 @@
 "stoltz":
-  - firstname: ["Dustin", "D.", "D. S.", "Dustin S."]
+  - firstname: ["Dustin", "D.", "D. S.", "Dustin S"]
     url: https://dustinstoltz.com/
 
 "lizardo":
@@ -10,9 +10,9 @@
   - firstname: ["Marshall", "M.", "M. A.", "Marshall A"]
     url: https://marshalltaylor.net/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"sepulvado":
+  - firstname: ["Brandon", "B"]
+    url: http://www.brandonsepulvado.com/
 
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
