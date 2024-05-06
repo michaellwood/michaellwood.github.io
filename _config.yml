@@ -206,7 +206,7 @@ kramdown:
 include: ["_pages"]
 exclude:
   - bin/
-  - blog.md
+  - _pages/unused_pages/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
