@@ -14,12 +14,9 @@
   - firstname: ["Brandon", "B"]
     url: http://www.brandonsepulvado.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"rugh":
+  - firstname: ["Jacob"]
+    url: https://fhssfaculty.byu.edu/directory/jacob-rugh
 
 "schrodinger":
   - firstname: ["Erwin"]
