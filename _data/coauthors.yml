@@ -1,14 +1,14 @@
-"Stoltz":
+"stoltz":
   - firstname: ["Dustin", "D.", "D. S.", "Dustin S."]
     url: https://dustinstoltz.com/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"lizardo":
+  - firstname: ["Omar", "O."]
+    url: https://olizardo.github.io/mysite/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"taylor":
+  - firstname: ["Marshall", "M.", "M. A.", "Marshall A"]
+    url: https://marshalltaylor.net/
 
 "bach":
   - firstname: ["Johann Sebastian", "J. S."]
